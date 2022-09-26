@@ -1,4 +1,9 @@
 @extends('front.layouts.master')
+
+@section('title')
+    HOME
+@endsection
+
 @section('content') 
 <section class="intro-section">
     <h2 class="section-title">Hello, Daisy Murphy!</h2>
